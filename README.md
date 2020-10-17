@@ -21,6 +21,10 @@
 | Robson de Sousa 	             |  robsoncartes@outlook.com       |  https://github.com/robsoncartes  	     |
 
 
+\
+![](images/ipython-jupyter-notebook.png)
+
+
 ## Descrição do Projeto e do Problema
 
 Esse projeto de laboratório faz parte dos requisitos necessários para obtenção da aprovação na disciplina Projeto de Banco de Dados não Estruturados. E o mais importante, esse projeto visa propiciar aos estudantes do curso de Tecnologia em Banco de Dados, uma visão introdutória sobre Análise de Dados Públicos e Data Science.
