@@ -23,6 +23,7 @@
 
 \
 ![](images/ipython-jupyter-notebook.png)
+Imagem meramente ilustrativa. Posteriormente será substitúida por uma imagem relacionada ao tema.
 
 
 ## Descrição do Projeto e do Problema
@@ -48,8 +49,8 @@ Aqui nessa seção poderemos inserir os requisitos do sistema, como funcionalida
 
 ## Organização
 
-Ver [Cronograma](https://github.com/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais/wiki/Cronograma-das-Sprints)
-
+Foi pensado dessa forma, pois posteriormente o arquivo README deverá ter somente instruções sobre a execução do projeto e informação geral sobre o tema, já detalhes do tema e informações adicionais estarão disponíveis em outra página.\
+Ver [Cronograma](https://github.com/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais/wiki/Cronograma-das-Sprints) \
 Ver [Work-space](https://app.zenhub.com/workspace/o/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais)
 
 ## Referências
