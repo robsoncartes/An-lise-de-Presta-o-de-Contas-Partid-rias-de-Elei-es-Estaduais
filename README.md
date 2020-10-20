@@ -28,6 +28,9 @@ Imagem meramente ilustrativa. Posteriormente será substitúida por uma imagem r
 
 ## Descrição do Projeto e do Problema
 
+
+Ver [Repositório de Dados Eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+
 Esse projeto de laboratório faz parte dos requisitos necessários para obtenção da aprovação na disciplina Projeto de Banco de Dados não Estruturados. E o mais importante, esse projeto visa propiciar aos estudantes do curso de Tecnologia em Banco de Dados, uma visão introdutória sobre Análise de Dados Públicos e Data Science.
 
 ##  **DISCLAIMER | AVISO LEGAL**
