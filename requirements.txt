@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+pandas
+matplotlib
+lxml
+pytrends
+seaborn
+numpy
+ipython
+jupyter
+xlrd
+markovify
+folium
+electionsBR
