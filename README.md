@@ -50,12 +50,6 @@ import this\
 Aqui nessa seção poderemos inserir os requisitos do sistema, como funcionalidades e etc.\
 **Obs.:** exemplos que ainda serão definidos, inclusive principais funções, propósito geral e modo como serão apresentados os dados.
 
-## Organização
-
-Foi pensado dessa forma, pois posteriormente o arquivo README deverá ter somente instruções sobre a execução do projeto e informação geral sobre o tema, já detalhes do tema e informações adicionais estarão disponíveis em outra página.\
-Ver [Cronograma](https://github.com/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais/wiki/Cronograma-das-Sprints) \
-Ver [Work-space](https://app.zenhub.com/workspace/o/robsoncartes/analise-de-prestacao-de-contas-partidarias-de-eleicoes-estaduais)
-
 ## Referências
 
 - Metodologias de desenvolvimento
